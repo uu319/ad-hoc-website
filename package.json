@@ -22,24 +22,8 @@
     "template",
     "Showcase"
   ],
-  "homepage": "https://orbitthemes.com/downloads/album/",
-  "author": "Orbit Themes <themesorbit@gmail.com> (https://orbitthemes.com)",
-  "bugs": {
-    "url": "https://github.com/orbitthemes/album/issues",
-    "email": "themesorbit@gmail.com"
-  },
-  "contributors": [
-    {
-      "name": "Sandeep Prasad Bhatt",
-      "email": "sandeep.bhatt59@gmail.com",
-      "url": "http://sandeepbhatt.com.np/"
-    }
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/orbitthemes/album.git"
-  },
-  "license": "MIT",
+  "author": "",
+  "license": "",
   "devDependencies": {
     "browser-sync": "2.24.4",
     "del": "^3.0.0",
